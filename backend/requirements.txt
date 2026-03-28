@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+yfinance>=0.2.20
+torch
+torchvision
+scipy
+matplotlib
+pandas
+numpy
+python-multipart
